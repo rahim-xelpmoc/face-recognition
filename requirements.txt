@@ -1,5 +1,5 @@
 deepface
 tf_keras
 streamlit
-chromadd
+chromadb
 
