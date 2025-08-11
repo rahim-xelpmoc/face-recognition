@@ -2,7 +2,6 @@ streamlit
 tensorflow==2.19.0
 tf_keras==2.19.0
 deepface
-dlib
 face_recognition
 opencv-python
 chromadb
