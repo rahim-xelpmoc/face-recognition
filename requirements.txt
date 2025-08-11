@@ -1,12 +1,5 @@
-dlib==20.0.0
-tensorflow==2.19.0
-tf_keras==2.19.0
-streamlit
 deepface
-face_recognition
-opencv-python
-chromadb
-numpy
-Pillow
-uuid
+tf_keras
+streamlit
+chromadd
 
