@@ -1,8 +1,11 @@
 streamlit
+tensorflow==2.19.0
+tf_keras==2.19.0
+deepface==0.0.96
 face_recognition
 opencv-python
 chromadb
 numpy
 Pillow
 uuid
-deepface
+
